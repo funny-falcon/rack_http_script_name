@@ -1,3 +1,3 @@
-module RackHttpScriptName
-  VERSION = "0.0.1"
+class RackHttpScriptName
+  VERSION = "0.0.2"
 end
